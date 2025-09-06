@@ -1,10 +1,4 @@
-# 📅 AI-Powered Attendance Management System
-
-![Dashboard](https://i.imgur.com/VnI5jYj.png)
-*Modern Dashboard with Dark/Light Mode*
-
-![Monthly Report](https://i.imgur.com/d0S2dVi.png)
-*Interactive Monthly Report with Charts*
+# 📅 MLP - Powered Attendance Management System
 
 ---
 
@@ -41,8 +35,8 @@ Perfect for **schools, colleges, or training institutes** looking for a modern a
 
 ## 📂 Project Structure
 attendance-app/
-│── main.py # Flask application (provided)
-│── students.csv # Stores student records (created automatically)
-│── attendance.csv # Stores attendance data (created automatically)
-│── requirements.txt # Dependencies
-│── README.md # Documentation
+-- │── main.py # Flask application (provided)
+-- │── students.csv # Stores student records (created automatically)
+-- │── attendance.csv # Stores attendance data (created automatically)
+-- │── requirements.txt # Dependencies
+-- │── README.md # Documentation
