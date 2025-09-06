@@ -1,6 +1,6 @@
 # 📅 NLP - Powered Attendance Management System
 
-![img]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-09-06 133624.png")
+![Image Alt]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-09-06 133624.png")
 ---
 
 ## 🚀 Overview
