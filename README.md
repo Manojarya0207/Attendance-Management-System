@@ -1,6 +1,5 @@
 # 📅 NLP - Powered Attendance Management System
 
-![Image Alt]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-09-06 133624.png")
 ---
 
 ## 🚀 Overview
@@ -34,10 +33,9 @@ Perfect for **schools, colleges, or training institutes** looking for a modern a
 
 ---
 
-## 📂 Project Structure
-attendance-app/
--- │── main.py # Flask application (provided)
--- │── students.csv # Stores student records (created automatically)
--- │── attendance.csv # Stores attendance data (created automatically)
--- │── requirements.txt # Dependencies
--- │── README.md # Documentation
+## ScreenShorts : 
+
+<img width="382" height="843" alt="Screenshot 2025-09-06 133624" src="https://github.com/user-attachments/assets/973da932-8861-4e66-9a8d-a6b588a16735" />
+<img width="388" height="850" alt="Screenshot 2025-09-06 133633" src="https://github.com/user-attachments/assets/2a18ab70-18d0-4c38-abc2-aa0282e5455c" />
+<img width="376" height="844" alt="Screenshot 2025-09-06 133643" src="https://github.com/user-attachments/assets/3aa1b5ba-ada7-49c0-895a-6dd5d0011b62" />
+<img width="377" height="848" alt="Screenshot 2025-09-06 133651" src="https://github.com/user-attachments/assets/cf0908f2-cc08-492f-a304-2d576f03de53" />
